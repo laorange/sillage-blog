@@ -17,8 +17,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "Sillage知识库",
-            description: "不积小流，无以成江海",
+            title: "迹云知识库",
+            description: "雁过留痕，风过留声",
         },
     },
 

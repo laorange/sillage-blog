@@ -1,6 +1,6 @@
-# Sillage知识库
+# 迹云知识库
 
-基于 [Vuepress](https://vuepress.vuejs.org/) 与 [Vdoing主题](https://github.com/xugaoyi/vuepress-theme-vdoing)
+Sillage-blog，基于 [Vuepress](https://vuepress.vuejs.org/) 与 [Vdoing主题](https://github.com/xugaoyi/vuepress-theme-vdoing) 的博客与知识库。
 
 ---
 
